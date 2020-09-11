@@ -10,5 +10,5 @@ OBJECT creation
 ```
 furrrrr
 
-and there's a pixelart version of my avatar is someone is interested
+and there's a pixelart version of my pfp is someone is interested
 <img src="https://sun1-93.userapi.com/oFjOIVezqdso4lnj_keorrBNDOb6M7RNM-yduA/TvvwVeppOu8.jpg" align="left" height="100" width="100">
