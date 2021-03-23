@@ -8,6 +8,7 @@
   <a href="https://github.com/lyrapuff">
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyrapuff&langs_count=8&theme=dracula&hide_border=true&count_private=true&layout=compact" />
   </a>
+  <hr />
 <p>
   <img width="25" valign="middle" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" />
   Lyrapuff#6526
