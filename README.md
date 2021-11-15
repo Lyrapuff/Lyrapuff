@@ -1,7 +1,5 @@
 <div align="center">
-  <h1>Hello, wuwu</h1>
-  <h3>I'm a fluffy C# Unity dev</h3>
-
+  <span>
   <a href="https://github.com/lyrapuff">
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=lyrapuff&show_icons=true&theme=dracula&custom_title=How%20fluffy%20I%20was&count_private=true&hide_border=true" />
   </a>
@@ -17,4 +15,5 @@
   <img width="25" valign="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />
   @Lyrapuff
 </span>
+  </span>
 </div>
