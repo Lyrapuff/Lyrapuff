@@ -2,7 +2,7 @@
 <div>
   <div>
     <h3>みゃ</h3>
-    <h4>I'm currently interested in <code>Rust</code> and <code>Vulkan</code> but I'm also peretty <code>good with C#</code></h4>
+    <h4>I'm currently interested in <code>Rust</code> and <code>Vulkan</code> but I'm also pretty <code>good with C#</code></h4>
     <p>Check out the pinned repositories, they're the most interesting ones!</p>
     <code>私の日本語はなかなか酷いけど変なことを言う出来ているww</code>
   </div>
