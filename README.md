@@ -11,10 +11,6 @@
     <a href="https://github.com/lyrapuff">
       <img align="center" width="370" height="150" src="https://github-readme-stats.vercel.app/api?username=lyrapuff&show_icons=true&theme=nord&custom_title=How%20fluffy%20I%20was&count_private=true&hide_border=true" />
     </a>
-    <br>
-    <a href="https://github.com/lyrapuff">
-      <img align="center" width="370" height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyrapuff&langs_count=8&theme=nord&hide_border=true&count_private=true" />
-    </a>
   </div>
 </div>
 <h4>Feel free to contact me!</h4>
