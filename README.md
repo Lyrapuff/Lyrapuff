@@ -20,5 +20,5 @@
 <br>
 
 <div>
-<a target="_blank" href="https://www.youtube.com/watch?v=D7HH-3wkCJc">回るネオネオン〜〜〜</div>
+<a target="_blank" href="https://www.youtube.com/watch?v=D7HH-3wkCJc">廻るネオネオン〜〜〜</div>
 </div>
