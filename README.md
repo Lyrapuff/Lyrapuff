@@ -3,7 +3,7 @@
   <div>
     <h1>みゃ、みんなさん！</h1>
     <h4>I'm just a little cat that's loving programming! | あたしは小さいな猫ですね！ プログラミングが大好き のｗの</h4>
-    <p>I'm mostly enjoying C# and Rust, but I've also worked with many other (mostly) interesting things throughout my life, I think that learning new stuff is really crucial to have real fun</p>
+    <p>I'm mostly enjoying C# and Rust, but I've also worked with many other (mostly) interesting things throughout my life, I think that learning new stuff is really crucial if you want to have real fun</p>
   </div>
 </div>
 
