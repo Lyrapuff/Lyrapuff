@@ -17,6 +17,5 @@
 <br>
 
 <div>
-<h3>A random bunch of words I'm currently obsessed with:</h3>
-「 廻る廻る巡る巡る 」〜
+<h3>A random bunch of words I'm currently obsessed with</h3> <h5>「 廻る廻る巡る巡る 」</h5>
 </div>
