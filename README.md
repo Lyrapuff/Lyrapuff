@@ -2,7 +2,7 @@
 <div>
   <div>
     <h1>みゃ、みんなさん！</h1>
-    <h4>I'm just a little cat who's loving programming! | あたしは小さいな猫ですね！ プログラミングが大好き のｗの</h4>
+    <h4>I'm just a little cat who's loving programming! | あたしは小さい猫ですね！ プログラミングが大好き のｗの</h4>
     <p>I'm mostly enjoying C# and Rust, but I've also worked with many other (mostly) interesting things throughout my life</p>
   </div>
 </div>
