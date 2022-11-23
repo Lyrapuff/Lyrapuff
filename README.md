@@ -1,14 +1,14 @@
 
 <div>
   <div>
-    <h1>みゃ、みんなさん！</h1>
-    <h4>I'm just a little cat who's loving programming! | あたしは小さい猫ですね！ プログラミングが大好き のｗの</h4>
-    <p>I'm mostly enjoying C# and Rust, but I've also worked with many other (mostly) interesting things throughout my life</p>
+    <h1>ミャ、みんなさん！</h1>
+    <h4>最近あたしの日本語のスキルがちょっと上げたうれしい！でもまだ上手じゃないよｗｗｗ</h4>
+    <p>C#とRustが好き、けど多くて他面白くてことも好き</p>
   </div>
 </div>
 
   <div>
-    <h1>Stats:</h1>
+    <h1>スタットは</h1>
     <a href="https://github.com/lyrapuff">
       <img align="center" width="370" height="150" src="https://github-readme-stats.vercel.app/api?username=lyrapuff&show_icons=true&theme=nord&custom_title=How%20fluffy%20I%20was&count_private=true&hide_border=true" />
     </a>
@@ -17,5 +17,5 @@
 <br>
 
 <div>
-<h3>A random bunch of words I'm currently obsessed with</h3> <h5>「 廻る廻る巡る巡る 」</h5>
+<h3>今好きな言葉は</h3> <h5>「 廻る廻る巡る巡る 」</h5>
 </div>
