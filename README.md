@@ -2,7 +2,7 @@
 <div>
   <div>
     <h1>Meow, minnasan!</h1>
-    <h4>I'm a cat doing C# and sometimes Rust development, mostly working on personal vewyyy private projects</h4>
+    <h4>I'm a cat doing C# and sometimes Rust development, mostly working on personal projects ^~^</h4>
     <p>But I also may be learning something random at any point in time o.o</p>
   </div>
 </div>
