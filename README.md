@@ -10,7 +10,7 @@
   <div>
     <h1>Stats</h1>
     <a href="https://github.com/lyrapuff">
-      <img align="center" width="370" height="150" src="https://github-readme-stats.vercel.app/api?username=lyrapuff&show_icons=true&theme=panda&custom_title=あたしのスタット&count_private=true&hide_border=true" />
+      <img align="center" width="370" height="150" src="https://github-readme-stats.vercel.app/api?username=lyrapuff&show_icons=true&theme=panda&custom_title=あたしのスタット&count_private=true&hide_border=true&include_all_commits=true" />
     </a>
     <a href="https://github.com/lyrapuff">
       <img align="center" width="370" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyrapuff&layout=compact&hide_border=true&theme=panda&count_private=true" />
