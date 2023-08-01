@@ -21,5 +21,5 @@
 
 <div>
   <h4>Also I like learning Japanese</h4>
-  <h3>最後好きな言葉は廻とる巡るｗｗｗ</h3>
+  <h3>最後好きな言葉は廻ると巡るｗｗｗ</h3>
 </div>
