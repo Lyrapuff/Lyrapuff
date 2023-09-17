@@ -2,13 +2,15 @@
 <div>
   <div>
     <h1>Meow, minnasan!</h1>
-    <h4>I'm usually doing C# and sometimes Rust development ^~^</h4>
+    <h5>I'm usually doing C# and sometimes Rust development ^~^</h5>
     <p>But I also may be learning or doing anything random at any point in time!</p>
   </div>
 </div>
 
+<br>
+
 <div>
-  <h1>Stats</h1>
+  <h4>Stats</h4>
   <a href="https://github.com/lyrapuff">
     <img align="center" width="370" height="150" src="https://github-readme-stats.vercel.app/api?username=lyrapuff&show_icons=true&theme=panda&custom_title=あたしのスタット&count_private=true&hide_border=true&include_all_commits=true" />
   </a>
@@ -31,6 +33,6 @@
 <br>
 
 <div>
-  <h4>Also I like learning Japanese</h4>
+  <h4>Also, I like learning Japanese!</h4>
   <h3>最後好きな言葉は廻ると巡るｗｗｗ</h3>
 </div>
