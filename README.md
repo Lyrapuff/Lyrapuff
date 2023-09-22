@@ -2,7 +2,7 @@
 <div>
   <div>
     <h1>Meow, minnasan!</h1>
-    <h5>I'm usually doing C# and sometimes Rust development ^~^</h5>
+    <b>I'm usually doing C# and sometimes Rust development ^~^</b>
     <p>But I also may be learning or doing anything random at any point in time!</p>
   </div>
 </div>
@@ -34,5 +34,5 @@
 
 <div>
   <h4>Also, I like learning Japanese!</h4>
-  <h3>最後好きな言葉は廻ると巡るｗｗｗ</h3>
+  <b>最後好きな言葉は廻ると巡るｗｗｗ</b>
 </div>
