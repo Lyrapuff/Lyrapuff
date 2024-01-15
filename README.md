@@ -10,8 +10,8 @@
 <div>
   <h4>Stats</h4>
   
-  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=lyrapuff&show_icons=true&theme=panda&custom_title=あたしのスタット&count_private=true&include_all_commits=true" />
-  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyrapuff&layout=compact&theme=panda&count_private=true" />
+  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=lyrapuff&show_icons=true&theme=catppuccin_mocha&custom_title=あたしのスタット&count_private=true&include_all_commits=true" />
+  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyrapuff&layout=compact&theme=catppuccin_mocha&count_private=true" />
 </div>
 
 <div>
