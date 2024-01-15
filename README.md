@@ -1,9 +1,9 @@
 
 <div>
   <div>
-    <h1>Meow, minnasan!</h1>
-    <b>I'm usually doing C# and sometimes Rust development ^~^</b>
-    <p>But I also may be learning or doing anything random at any point in time!</p>
+    <h1>Meow, minnasan ^-^</h1>
+    <b>I'm doing <code>C#</code> and sometimes <code>Rust</code> development.</b>
+    <p>But I also might be working on something random at any point in time!</p>
   </div>
 </div>
 
@@ -24,6 +24,6 @@
 </div>
 
 <div>
-  <h4>Also, I like learning Japanese!</h4>
+  <h4>Also, Japanese is cool!</h4>
   <b>最後好きな言葉は廻ると巡るｗｗｗ</b>
 </div>
