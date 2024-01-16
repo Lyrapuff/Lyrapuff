@@ -3,7 +3,7 @@
   <div>
     <h1>Meow, minnasan ^-^</h1>
     <b>I'm doing <code>C#</code> and sometimes <code>Rust</code> development.</b>
-    <p>But I also might be working on something random at any point in time!</p>
+    <p>Currently I'm busy with a personal project, but I also might be working on something random at any point in time!</p>
   </div>
 </div>
 
