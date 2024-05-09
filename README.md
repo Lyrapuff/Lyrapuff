@@ -2,8 +2,7 @@
 <div>
   <div>
     <h1>Meow, minnasan ^-^</h1>
-    <b>I'm doing <code>C#</code> and sometimes <code>Rust</code> development, but I'm also capable of much more including <code>HTML</code>, <code>JS/TS</code>, <code>SQL</code>...</b>
-    <p>Currently I'm busy with a personal project, but I also might be working on something random at any point in time!</p>
+    <p>I'm doing <code>C#</code> and sometimes <code>Rust</code> development, but I'm also capable of more stuff like <code>JS/TS</code>, <code>SQL</code>, <code>Docker</code>...</p>
   </div>
 </div>
 
