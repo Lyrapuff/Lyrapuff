@@ -1,7 +1,7 @@
 
 <div>
   <div>
-    <h1>Meow, minnasan ^-^</h1>
+    <h1>Meow, minasan ^-^</h1>
     <p>I'm doing <code>C#</code> and sometimes <code>Rust</code> development, but I'm also capable of more stuff like <code>JS/TS</code>, <code>SQL</code>, <code>Docker</code>...</p>
   </div>
 </div>
