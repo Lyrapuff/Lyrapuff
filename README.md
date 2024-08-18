@@ -23,6 +23,5 @@
 </div>
 
 <div>
-  <h4>Also, Japanese is cool!</h4>
-  <b>最後好きな言葉は廻ると巡るｗｗｗ</b>
+  <b>本当に好きなことだけでいいです</b>
 </div>
