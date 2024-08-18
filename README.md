@@ -22,6 +22,8 @@
   <a target="_blank" href="https://hoj-senna.github.io/ashen-aetna/">Ashen Aetna (Rust, Vulkan)</a>
 </div>
 
+<br>
+
 <div>
   <b>本当に好きなことだけでいいです</b>
 </div>
