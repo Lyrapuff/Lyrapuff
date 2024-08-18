@@ -2,7 +2,7 @@
 <div>
   <div>
     <h1>Meow, minasan ^-^</h1>
-    <p>I'm a cat that sometimes develops stuff and wishes she spent more time on anki to finish that damn deck</p>
+    <p>I'm a cat that sometimes develops stuff and wishes she spent more time on anki and could just finish that damn deck already</p>
   </div>
 </div>
 
