@@ -2,7 +2,7 @@
 <div>
   <div>
     <h1>Meow, minasan ^-^</h1>
-    <p>I'm a cat that likes developing stuff and learning new things!</p>
+    <p>I'm a cat and I like developing stuff, learning new things and mastering thigns I already know</p>
   </div>
 </div>
 
