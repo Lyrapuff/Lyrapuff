@@ -2,7 +2,8 @@
 <div>
   <div>
     <h1>Meow, minasan ^-^</h1>
-    <p>I'm a cat and I like developing stuff, learning new things and mastering thigns I already know</p>
+    <p>I'm a cat and I like developing software, learning new things and mastering the thigns I already know!</p>
+    <p>Striving to be a good software architect.</p>
   </div>
 </div>
 
